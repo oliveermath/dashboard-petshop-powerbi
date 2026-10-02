@@ -38,7 +38,7 @@ e identificar diferentes características dos dados.
 
 ## 🖼️ Dashboard
 
-![Dashboard Pet Shop](imagens/dashboard-petshop.png)
+<img width="1443" height="811" alt="image" src="https://github.com/user-attachments/assets/78bbd0f5-f7cd-4ac5-9ac5-dcfc215e07ac" />
 
 ## 📚 Contexto
 
