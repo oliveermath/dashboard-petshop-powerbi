@@ -36,8 +36,3 @@ e identificar diferentes características dos dados.
 ## 🖼️ Dashboard
 
 <img width="1443" height="811" alt="image" src="https://github.com/user-attachments/assets/78bbd0f5-f7cd-4ac5-9ac5-dcfc215e07ac" />
-
-## 📚 Contexto
-
-Projeto desenvolvido durante meus estudos de Power BI, como forma de
-retomar a prática na construção de dashboards e análise de dados.
